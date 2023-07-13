@@ -1,2 +1,2 @@
 # reactgraph-pract
-just messing around with reactjsxhighmaps
+just messing around with recharts
